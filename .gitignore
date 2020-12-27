@@ -1,0 +1,7 @@
+_build/
+build/
+.venv*/
+venv*/
+virtualenv*/
+venv*/
+.idea/
